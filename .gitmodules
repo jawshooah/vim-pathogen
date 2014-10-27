@@ -32,7 +32,7 @@
 	path = bundle/scala
 	url = https://github.com/derekwyatt/vim-scala/
 [submodule "bundle/scalariform"]
-	path = bundle/scalariform
+	path = bundle/vim-scalariform/
 	url = https://github.com/rompetroll/vim-scalariform
 [submodule "bundle/sensible"]
 	path = bundle/sensible
