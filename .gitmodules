@@ -1,9 +1,6 @@
 [submodule "bundle/bufexplorer"]
 	path = bundle/bufexplorer
 	url = https://github.com/corntrace/bufexplorer
-[submodule "bundle/colors-solarized"]
-	path = bundle/colors-solarized
-	url = https://github.com/altercation/vim-colors-solarized
 [submodule "bundle/ctrlp"]
 	path = bundle/ctrlp
 	url = https://github.com/kien/ctrlp.vim
@@ -67,3 +64,6 @@
 [submodule "bundle/vim-scalariform"]
 	path = bundle/vim-scalariform
 	url = https://github.com/rompetroll/vim-scalariform
+[submodule "bundle/vim-colors-solarized"]
+	path = bundle/vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
