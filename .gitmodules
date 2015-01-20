@@ -31,9 +31,6 @@
 [submodule "bundle/sensible"]
 	path = bundle/sensible
 	url = git://github.com/tpope/vim-sensible.git
-[submodule "bundle/supertab"]
-	path = bundle/supertab
-	url = https://github.com/ervandew/supertab
 [submodule "bundle/surround"]
 	path = bundle/surround
 	url = https://github.com/tpope/vim-surround
