@@ -1,7 +1,7 @@
 runtime bundle/vim-pathogen/autoload/pathogen.vim
 execute pathogen#infect()
 syntax on
-filetype plugin indent on
+filetype plugin on
 
 set nowrap              " don't wrap lines
 set number              " always show line numbers
