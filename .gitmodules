@@ -20,7 +20,7 @@
 	path = bundle/rainbow_parentheses
 	url = https://github.com/kien/rainbow_parentheses.vim
 [submodule "bundle/sbt"]
-	path = bundle/sbt
+	path = bundle/sbt-vim
 	url = https://github.com/ktvoelker/sbt-vim
 [submodule "bundle/scala"]
 	path = bundle/scala
