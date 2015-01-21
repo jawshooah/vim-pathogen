@@ -106,3 +106,9 @@
 [submodule "bundle/nerdcommenter"]
 	path = bundle/nerdcommenter
 	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "bundle/vim-sbt"]
+	path = bundle/vim-sbt
+	url = https://github.com/derekwyatt/vim-sbt
+[submodule "bundle/sbt-quickfix"]
+	path = bundle/sbt-quickfix
+	url = https://github.com/dscleaver/sbt-quickfix
