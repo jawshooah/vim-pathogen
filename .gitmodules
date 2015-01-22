@@ -121,3 +121,6 @@
 [submodule "bundle/csv.vim"]
 	path = bundle/csv.vim
 	url = git://github.com/chrisbra/csv.vim.git
+[submodule "bundle/vim-abolish"]
+	path = bundle/vim-abolish
+	url = git://github.com/tpope/vim-abolish.git
