@@ -118,3 +118,6 @@
 [submodule "bundle/vim-gitgutter"]
 	path = bundle/vim-gitgutter
 	url = git://github.com/airblade/vim-gitgutter.git
+[submodule "bundle/csv.vim"]
+	path = bundle/csv.vim
+	url = git://github.com/chrisbra/csv.vim.git
