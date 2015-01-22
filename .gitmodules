@@ -112,3 +112,6 @@
 [submodule "bundle/sbt-quickfix"]
 	path = bundle/sbt-quickfix
 	url = https://github.com/dscleaver/sbt-quickfix
+[submodule "bundle/vim-scriptease"]
+	path = bundle/vim-scriptease
+	url = https://github.com/tpope/vim-scriptease
