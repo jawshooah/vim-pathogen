@@ -124,3 +124,9 @@
 [submodule "bundle/vim-abolish"]
 	path = bundle/vim-abolish
 	url = git://github.com/tpope/vim-abolish.git
+[submodule "bundle/vim-vimlint"]
+	path = bundle/vim-vimlint
+	url = https://github.com/syngan/vim-vimlint/
+[submodule "bundle/vim-vimlparser"]
+	path = bundle/vim-vimlparser
+	url = https://github.com/ynkdir/vim-vimlparser/
