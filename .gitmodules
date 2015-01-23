@@ -130,3 +130,9 @@
 [submodule "bundle/vim-vimlparser"]
 	path = bundle/vim-vimlparser
 	url = https://github.com/ynkdir/vim-vimlparser/
+[submodule "bundle/gitignore.vim"]
+	path = bundle/gitignore.vim
+	url = https://github.com/rdolgushin/gitignore.vim
+[submodule "bundle/gitignore"]
+	path = bundle/gitignore
+	url = https://github.com/vim-scripts/gitignore
