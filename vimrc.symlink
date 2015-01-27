@@ -23,6 +23,7 @@ set smarttab            " insert tabs on the start of a line according to
 set hlsearch            " highlight search items
 set incsearch           " show search matches as you type
 set hidden
+set background=dark
 
 " Recommended syntastic settings
 set statusline+=%#warningmsg#
