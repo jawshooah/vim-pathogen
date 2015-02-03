@@ -139,3 +139,6 @@
 [submodule "bundle/applescript.vim"]
 	path = bundle/applescript.vim
 	url = git://github.com/vim-scripts/applescript.vim.git
+[submodule "bundle/Dockerfile.vim"]
+	path = bundle/Dockerfile.vim
+	url = git://github.com/ekalinin/Dockerfile.vim.git
